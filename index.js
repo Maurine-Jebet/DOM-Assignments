@@ -19,7 +19,11 @@ document.getElementById("title").style.color="green";
 
 //Change the font case for h3 title tags to
 //uppercase
-document.getElementById("h3").style.textTransform="toUpperCase"
+document.getElementById("h1").style.textTransform="uppercase"
+document.getElementById("h2").style.textTransform="uppercase"
+document.getElementById("h3").style.textTransform="uppercase"
+
+
 
 
 
